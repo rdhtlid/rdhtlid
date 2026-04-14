@@ -1,7 +1,7 @@
 ## ABOUT ME
 
-I am a data enthusiast with strong interest in data analysis, visualization, and business problem solving.  
-I enjoy transforming raw data into meaningful insights that support decision-making.
+✨ Final-year Informatics student passionate about data, insights, and continuous learning. 
+I enjoy analyzing data, building web apps, and continuously exploring new things in technology.
 
 Currently building projects in:
 - SQL (Data Analysis)
