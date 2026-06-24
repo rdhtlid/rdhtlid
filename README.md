@@ -34,10 +34,3 @@ Final-year Informatics student with a strong interest in Data Analytics and Data
 - Creating dashboards and reports
 
 ---
-
-## ⚙️ Workflow
-
-```text
-Python → Data Processing  
-SQL → Data Analysis  
-Visualization → Insights & Dashboard
